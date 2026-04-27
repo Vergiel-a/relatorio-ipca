@@ -1,0 +1,24 @@
+project:
+  type: default
+
+lang: pt-BR
+date-format: "MMMM [de] YYYY"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-title: "Sumário"
+    toc-depth: 2
+    code-fold: true
+    code-summary: "Ver código"
+    fig-width: 9
+    fig-height: 5
+    fig-dpi: 150
+    embed-resources: true
+
+execute:
+  echo: true
+  warning: false
+  message: false
+  freeze: auto

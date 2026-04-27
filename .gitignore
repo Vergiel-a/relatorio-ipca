@@ -1,0 +1,17 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Quarto build artifacts
+_freeze/
+.quarto/
+output/
+*_files/
+*.html
+
+# OS
+.DS_Store
+Thumbs.db
